@@ -14,7 +14,7 @@
 Структура репозитория
 - app/
   - __init__.py
-  - models.py       # ORM модель (Student) + уникальный constraint
+  - models.py       # модели
   - db.py           # engine, SessionLocal, DATABASE_URL
   - import_csv.py   # скрипт импорта students.csv (заполняет таблицу)
   - crud.py         # функции CRUD + дополнительные запросы
