@@ -1,0 +1,4 @@
+SQLAlchemy>=1.4
+alembic>=1.10
+python-dotenv    # опционально, для хранения DATABASE_URL
+pandas           # опционально, для импорта CSV
