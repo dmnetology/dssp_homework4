@@ -1,7 +1,7 @@
-# Homework 3 — SQLAlchemy + Alembic (students.csv)
+# Homework 4 — REST API. Реализация CRUD
 
 Дисциплина: Разработка прототипов программных решений  
-Тема: Работа с базами данных: FastAPI, SQLAlchemy, Alembic; Реализация CRUD.
+Тема: REST API. Реализация CRUD.
 
 Кратко
 ------
